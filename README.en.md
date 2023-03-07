@@ -17,15 +17,12 @@
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d2af1ecf556d4a7e82d5956c7d012c91~tplv-k3u1fbpfcp-watermark.image?)
 
 #### 搜索
-
 - 点击搜索，输入搜索内容，系统返回相关产品列表
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ecf056177b2a486d80fee62243e42115~tplv-k3u1fbpfcp-watermark.image?)
-
 - 本地保存搜索记录
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/32228120bd994d389ffeeba83a3c40d1~tplv-k3u1fbpfcp-watermark.image?)
-
 - 点击记录，系统跳转到商品列表页
 
 ![image.png](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/29f055f645024e55a66e282b30f5cff1~tplv-k3u1fbpfcp-watermark.image?)
@@ -36,7 +33,6 @@
 
 #### 热门推荐
 - 点击热门推荐来到热门推荐列表页
-
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/c49576040e7c440c8aced503263e0a54~tplv-k3u1fbpfcp-watermark.image?)
 
 ### 分类
@@ -58,5 +54,4 @@
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/e4c7782d776b448cb9561e97b673da5c~tplv-k3u1fbpfcp-watermark.image?)
 
 -登录后
-
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/81863b0ee4f54152b0981476cbf13369~tplv-k3u1fbpfcp-watermark.image?)
